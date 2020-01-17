@@ -1,0 +1,6 @@
+com\codewithinoussa\service\impl\ProjectServiceImpl.class
+com\codewithinoussa\service\IProjectService.class
+com\codewithinoussa\taskmanagementapplesson\LsApplication.class
+com\withinoussa\persistance\model\Project.class
+com\withinoussa\persistence\repository\impl\ProjectRepositoryImpl.class
+com\withinoussa\persistence\repository\IProjectRepository.class
